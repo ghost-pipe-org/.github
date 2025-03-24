@@ -75,4 +75,4 @@ Equipe composta por:
 
 ## :page_facing_up: Licença
 
-Todos os projetos desenvolvidos pela Ghost Pipe Org. são distribuídos sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Todos os projetos desenvolvidos pela Ghost Pipe Org. são distribuídos sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/ghost-pipe-org/.github/blob/main/LICENSE) para mais informações.
