@@ -68,7 +68,6 @@ Equipe composta por:
 - Caio Lopes - [@cls2311](https://github.com/cls2311) 
 - Gabriel A. Menezes - [@Gaaybe](https://github.com/Gaaaybe)
 - Iago Moreira - [@IagoMoreira26](https://github.com/IagoMoreira26)
-- João Pedro - [@jotapesc](https://github.com/jotapesc)
 - Pedro Irineu - [@pedroirineu5](https://github.com/pedroirineu5)
 
 ---
